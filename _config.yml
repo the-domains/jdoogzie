@@ -1,0 +1,28 @@
+name: JDOOGZIE
+favicon: null
+layout_spectrum: 0.4883903011213988
+typography_spectrum: 0.8237652382813394
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.5449480693787336
+  lightness: 0.4431596074718982
+  saturation: 0.06783386948518455
+  rhythmicContrast: 0.012398515827953815
+purpose: []
